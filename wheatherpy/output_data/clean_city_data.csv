@@ -7,7 +7,6 @@ City_ID,City,Cloudiness,Country,Date,Humidity,Lat,Lng,Max Temp,Wind Speed
 5,chokurdakh,overcast clouds,RU,1614203978,88,70.6333,147.9167,-28.9,2.47
 6,ribeira grande,broken clouds,PT,1614241956,63,38.5167,-28.7,12.89,7.85
 7,port hawkesbury,overcast clouds,CA,1614163949,75,45.6169,-61.3485,2,4.63
-8,belushya guba,,,,,,,,
 9,north bend,clear sky,US,1614178861,71,43.4065,-124.2243,8,7.2
 10,hermanus,scattered clouds,ZA,1614227230,94,-34.4187,19.2345,14.44,4.41
 11,longyearbyen,light snow,SJ,1614240311,80,78.2186,15.6401,1,5.66
@@ -20,7 +19,6 @@ City_ID,City,Cloudiness,Country,Date,Humidity,Lat,Lng,Max Temp,Wind Speed
 18,ottumwa,clear sky,US,1614171072,93,41.02,-92.4113,0.56,3.09
 19,busselton,clear sky,AU,1614204198,63,-33.65,115.3333,23.33,0.89
 20,sitka,mist,US,1614182787,80,57.0531,-135.33,2,11.32
-21,taolanaro,,,,,,,,
 22,darnah,clear sky,LY,1614229330,71,32.767,22.6367,15.3,8.25
 23,paraiso,clear sky,CR,1614167514,60,9.8383,-83.8656,23,7.2
 24,port alfred,light rain,ZA,1614225441,95,-33.5906,26.891,18.33,0.45
@@ -48,21 +46,17 @@ City_ID,City,Cloudiness,Country,Date,Humidity,Lat,Lng,Max Temp,Wind Speed
 46,atuona,clear sky,PF,1614179976,76,-9.8,-139.0333,26.2,4.83
 47,sulangan,scattered clouds,PH,1614204133,74,11.1373,123.7228,26.99,3.68
 48,torbay,light snow,CA,1614162046,86,47.6666,-52.7314,0,7.2
-49,taolanaro,,,,,,,,
 50,puerto baquerizo moreno,overcast clouds,EC,1614168467,84,-0.9,-89.6,25.35,4
 51,bagru,haze,IN,1614216352,30,26.8088,75.5423,22,2.06
 52,mugango,overcast clouds,TZ,1614225240,82,-1.6833,33.7,19.47,2.58
 53,rikitea,moderate rain,PF,1614178415,76,-23.1203,-134.9692,27.02,13.12
 54,broken hill,clear sky,AU,1614198029,26,-31.95,141.4333,22,6.69
 55,manacapuru,heavy intensity rain,BR,1614161418,94,-3.2997,-60.6206,25,1.18
-56,amderma,,,,,,,,
 57,ilulissat,clear sky,GL,1614164998,52,69.2167,-51.1,-13,1.54
 58,faanui,scattered clouds,PF,1614182747,73,-16.4833,-151.75,27.7,5.21
-59,warqla,,,,,,,,
 60,tasiilaq,overcast clouds,GL,1614160822,68,65.6145,-37.6368,-4,1.03
 61,walvis bay,clear sky,NA,1614228967,88,-22.9575,14.5053,16.11,3.09
 62,rikitea,moderate rain,PF,1614178415,76,-23.1203,-134.9692,27.02,13.12
-63,grand river south east,,,,,,,,
 64,poum,overcast clouds,NC,1614193198,71,-20.2333,164.0167,28.08,3.55
 65,san andres,scattered clouds,CO,1614167105,78,12.5847,-81.7006,27,7.72
 66,baykit,few clouds,RU,1614214178,81,61.67,96.37,-30.32,1.45
@@ -71,7 +65,6 @@ City_ID,City,Cloudiness,Country,Date,Humidity,Lat,Lng,Max Temp,Wind Speed
 69,saint-augustin,overcast clouds,CA,1614163779,86,51.226,-58.6502,-8.36,2.34
 70,nome,light snow,US,1614191172,79,64.5011,-165.4064,-10,4.12
 71,kodiak,light snow,US,1614186972,75,57.79,-152.4072,3,8.75
-72,airai,broken clouds,TL,1614202946,100,-8.9266,125.4092,19.44,2.07
 73,rawson,clear sky,AR,1614160410,61,-43.3002,-65.1023,18.56,2.28
 74,saint-georges,broken clouds,GD,1614162296,94,12.0564,-61.7485,24,10.29
 75,punta arenas,broken clouds,CL,1614160842,73,-53.15,-70.9167,7.99,5.25
@@ -88,7 +81,6 @@ City_ID,City,Cloudiness,Country,Date,Humidity,Lat,Lng,Max Temp,Wind Speed
 86,ushuaia,broken clouds,AR,1614160005,70,-54.8,-68.3,6,11.83
 87,saint george,clear sky,US,1614175907,22,37.1041,-113.5841,12,13.89
 88,lebu,clear sky,CL,1614162878,88,-37.6167,-73.65,14.59,5.75
-89,valley city,overcast clouds,US,1614172837,100,46.9233,-98.0032,-3,7.72
 90,jamestown,overcast clouds,US,1614167985,87,42.097,-79.2353,3.33,9.77
 91,boa vista,clear sky,BR,1614161672,69,2.8197,-60.6733,27,4.63
 92,belle fourche,clear sky,US,1614174068,68,44.6714,-103.8522,-3.33,2.57
@@ -97,7 +89,6 @@ City_ID,City,Cloudiness,Country,Date,Humidity,Lat,Lng,Max Temp,Wind Speed
 95,grand gaube,clear sky,MU,1614218741,78,-20.0064,57.6608,23.33,1.34
 96,caravelas,clear sky,BR,1614155686,88,-17.7125,-39.2481,24.98,2.76
 97,saskylakh,clear sky,RU,1614212557,81,71.9167,114.0833,-34.94,3.2
-98,vaitupu,,,,,,,,
 99,albany,overcast clouds,US,1614166756,43,42.6001,-73.9662,7.22,4.53
 100,mastung,clear sky,PK,1614218580,43,29.7994,66.845,10.69,2.49
 101,lokossa,clear sky,BJ,1614233232,77,6.6387,1.7167,26.52,3.5
@@ -126,10 +117,7 @@ City_ID,City,Cloudiness,Country,Date,Humidity,Lat,Lng,Max Temp,Wind Speed
 124,hilo,moderate rain,US,1614185007,73,19.7297,-155.09,24,3.6
 125,carnarvon,clear sky,AU,1614205076,46,-24.8667,113.6333,33,6.69
 126,tasiilaq,overcast clouds,GL,1614160822,68,65.6145,-37.6368,-4,1.03
-127,mys shmidta,,,,,,,,
-128,sentyabrskiy,,,,,,,,
 129,ribeira grande,broken clouds,PT,1614241956,63,38.5167,-28.7,12.89,7.85
-130,gorno-chuyskiy,,,,,,,,
 131,bitung,scattered clouds,ID,1614203407,66,1.4451,125.1824,31,2.57
 132,waitati,overcast clouds,NZ,1614190074,62,-45.75,170.5667,15,3.13
 133,beringovskiy,overcast clouds,RU,1614194552,93,63.05,179.3167,-19.74,8.76
@@ -137,33 +125,25 @@ City_ID,City,Cloudiness,Country,Date,Humidity,Lat,Lng,Max Temp,Wind Speed
 135,san cristobal,scattered clouds,VE,1614164638,91,7.7669,-72.225,19.24,0.75
 136,carnarvon,clear sky,AU,1614205076,46,-24.8667,113.6333,33,6.69
 137,lagoa,clear sky,PT,1614241815,67,39.05,-27.9833,12.75,8.49
-138,taolanaro,,,,,,,,
 139,new norfolk,overcast clouds,AU,1614195964,70,-42.7826,147.0587,13.89,1.79
 140,tuktoyaktuk,few clouds,CA,1614184675,67,69.4541,-133.0374,-39,1.54
 141,qaanaaq,overcast clouds,GL,1614173962,86,77.484,-69.3632,-10.85,2.63
 142,bahia blanca,clear sky,AR,1614160071,21,-38.7196,-62.2724,25.17,3.58
 143,mocuba,overcast clouds,MZ,1614223843,98,-16.8392,36.9856,22.48,0.64
-144,mys shmidta,,,,,,,,
 145,clyde river,overcast clouds,CA,1614169599,85,70.4692,-68.5914,-18,2.57
 146,kathu,few clouds,TH,1614210099,65,7.9178,98.3332,29,2.06
 147,bredy,broken clouds,RU,1614221650,87,52.4153,60.3411,-26.38,4.24
-148,airai,broken clouds,TL,1614202946,100,-8.9266,125.4092,19.44,2.07
 149,severo-kurilsk,overcast clouds,RU,1614198532,93,50.6789,156.125,-2.9,4.1
 150,punta arenas,broken clouds,CL,1614160842,73,-53.15,-70.9167,7.99,5.25
-151,port elizabeth,moderate rain,ZA,1614225739,100,-33.918,25.5701,18,4.63
 152,puerto ayora,overcast clouds,EC,1614168654,90,-0.7393,-90.3518,26.67,4.02
-153,tsihombe,,,,,,,,
 154,abu kamal,clear sky,SY,1614225035,51,34.4506,40.9171,9.55,4.12
-155,mys shmidta,,,,,,,,
 156,atuona,clear sky,PF,1614179976,76,-9.8,-139.0333,26.2,4.83
 157,zhigansk,scattered clouds,RU,1614208723,80,66.7697,123.3711,-35.13,1.72
-158,tsihombe,,,,,,,,
 159,bluff,clear sky,NZ,1614190536,66,-46.6,168.3333,15.56,3.58
 160,tasiilaq,overcast clouds,GL,1614160822,68,65.6145,-37.6368,-4,1.03
 161,mar del plata,mist,AR,1614158987,94,-38.0023,-57.5575,19.44,1.54
 162,victoria,light rain,HK,1614206886,89,22.2855,114.1577,20,0.45
 163,christchurch,overcast clouds,NZ,1614189761,63,-43.5333,172.6333,19,4.63
-164,illoqqortoormiut,,,,,,,,
 165,ushuaia,broken clouds,AR,1614160005,70,-54.8,-68.3,6,11.83
 166,jumla,clear sky,NP,1614214875,47,29.2747,82.1838,6.83,1.34
 167,erzin,clear sky,TR,1614226304,38,36.9559,36.2,12.78,2.68
@@ -182,7 +162,6 @@ City_ID,City,Cloudiness,Country,Date,Humidity,Lat,Lng,Max Temp,Wind Speed
 180,limon,clear sky,CR,1614167320,80,10,-83.0333,24.67,0.93
 181,atuona,clear sky,PF,1614179976,76,-9.8,-139.0333,26.2,4.83
 182,cape town,clear sky,ZA,1614227454,68,-33.9258,18.4232,19.44,5.66
-183,nizhneyansk,,,,,,,,
 184,jamestown,overcast clouds,US,1614167985,87,42.097,-79.2353,3.33,9.77
 185,mataura,broken clouds,NZ,1614190444,66,-46.1927,168.8643,15.56,3.58
 186,punta arenas,broken clouds,CL,1614160842,73,-53.15,-70.9167,7.99,5.25
@@ -213,10 +192,8 @@ City_ID,City,Cloudiness,Country,Date,Humidity,Lat,Lng,Max Temp,Wind Speed
 211,thompson,scattered clouds,CA,1614173650,77,55.7435,-97.8558,-23,1.02
 212,hermanus,scattered clouds,ZA,1614227230,94,-34.4187,19.2345,14.44,4.41
 213,ardakan,sand,IR,1614221781,45,32.31,54.0175,5,8.75
-214,attawapiskat,,,,,,,,
 215,longyearbyen,light snow,SJ,1614240311,80,78.2186,15.6401,1,5.66
 216,bredasdorp,overcast clouds,ZA,1614227030,82,-34.5322,20.0403,17,2.5
-217,port elizabeth,moderate rain,ZA,1614225739,100,-33.918,25.5701,18,4.63
 218,new norfolk,overcast clouds,AU,1614195964,70,-42.7826,147.0587,13.89,1.79
 219,cherskiy,overcast clouds,RU,1614200172,96,68.75,161.3,-30.31,2.24
 220,hobart,broken clouds,AU,1614195891,71,-42.8794,147.3294,13.33,4.63
@@ -252,7 +229,6 @@ City_ID,City,Cloudiness,Country,Date,Humidity,Lat,Lng,Max Temp,Wind Speed
 250,vaini,light rain,TO,1614274591,74,-21.2,-175.2,28,4.12
 251,kapaa,light rain,US,1614186123,73,22.0752,-159.319,24,7.72
 252,youghal,scattered clouds,IE,1614237947,93,51.95,-7.8506,5.56,4.12
-253,belushya guba,,,,,,,,
 254,busselton,clear sky,AU,1614204198,63,-33.65,115.3333,23.33,0.89
 255,ushuaia,broken clouds,AR,1614160005,70,-54.8,-68.3,6,11.83
 256,cerritos,few clouds,US,1614176798,82,33.8583,-118.0648,17,2.57
@@ -260,7 +236,6 @@ City_ID,City,Cloudiness,Country,Date,Humidity,Lat,Lng,Max Temp,Wind Speed
 258,port alfred,light rain,ZA,1614225441,95,-33.5906,26.891,18.33,0.45
 259,bereslavka,clear sky,RU,1614225217,71,48.6254,44.0449,-17,3
 260,limon,clear sky,CR,1614167320,80,10,-83.0333,24.67,0.93
-261,unye,,,,,,,,
 262,kokopo,light rain,PG,1614196683,71,-4.352,152.2633,28.97,6.09
 263,koson,scattered clouds,UZ,1614219380,45,39.0375,65.585,-9,1.03
 264,kaitangata,clear sky,NZ,1614190200,60,-46.2817,169.8464,14.44,4.47
@@ -269,7 +244,6 @@ City_ID,City,Cloudiness,Country,Date,Humidity,Lat,Lng,Max Temp,Wind Speed
 267,hithadhoo,overcast clouds,MV,1614215830,77,-0.6,73.0833,27.92,4.59
 268,ussel,clear sky,FR,1614234980,50,45.55,2.3167,6.67,0.89
 269,duku,clear sky,NG,1614232644,20,11.2361,4.9073,22.16,2.15
-270,hambantota,clear sky,LK,1614214160,100,6.1241,81.1185,23,1.54
 271,jamestown,overcast clouds,US,1614167985,87,42.097,-79.2353,3.33,9.77
 272,mataura,broken clouds,NZ,1614190444,66,-46.1927,168.8643,15.56,3.58
 273,qaanaaq,overcast clouds,GL,1614173962,86,77.484,-69.3632,-10.85,2.63
@@ -281,7 +255,6 @@ City_ID,City,Cloudiness,Country,Date,Humidity,Lat,Lng,Max Temp,Wind Speed
 279,east london,light rain,ZA,1614225229,76,-33.0153,27.9116,19.82,2.67
 280,ushuaia,broken clouds,AR,1614160005,70,-54.8,-68.3,6,11.83
 281,chokurdakh,overcast clouds,RU,1614203978,88,70.6333,147.9167,-28.9,2.47
-282,taolanaro,,,,,,,,
 283,tasiilaq,overcast clouds,GL,1614160822,68,65.6145,-37.6368,-4,1.03
 284,roald,few clouds,NO,1614235940,81,62.5833,6.1333,8.89,4.63
 285,general roca,clear sky,AR,1614161324,68,-39.0333,-67.5833,21,1.46
@@ -311,7 +284,6 @@ City_ID,City,Cloudiness,Country,Date,Humidity,Lat,Lng,Max Temp,Wind Speed
 309,xingcheng,few clouds,CN,1614206259,71,40.6167,120.7167,-0.82,6.23
 310,la crosse,clear sky,US,1614170981,64,43.8014,-91.2396,0.56,4.12
 311,new norfolk,overcast clouds,AU,1614195964,70,-42.7826,147.0587,13.89,1.79
-312,ketchikan,light rain,US,1614181700,100,55.3422,-131.6461,1,14.4
 313,albany,overcast clouds,US,1614166756,43,42.6001,-73.9662,7.22,4.53
 314,chulym,clear sky,RU,1614216989,87,55.0997,80.9572,-26.14,4.92
 315,butaritari,overcast clouds,KI,1614192045,78,3.0707,172.7902,27.58,8.96
@@ -325,11 +297,7 @@ City_ID,City,Cloudiness,Country,Date,Humidity,Lat,Lng,Max Temp,Wind Speed
 323,puerto ayora,overcast clouds,EC,1614168654,90,-0.7393,-90.3518,26.67,4.02
 324,saint-philippe,clear sky,RE,1614219134,53,-21.3585,55.7679,25,4.12
 325,rikitea,moderate rain,PF,1614178415,76,-23.1203,-134.9692,27.02,13.12
-326,vaitupu,,,,,,,,
-327,lolua,,,,,,,,
 328,east london,light rain,ZA,1614225229,76,-33.0153,27.9116,19.82,2.67
-329,asau,fog,RO,1614229273,100,46.4333,26.4,7.78,1.54
-330,airai,broken clouds,TL,1614202946,100,-8.9266,125.4092,19.44,2.07
 331,saint-philippe,clear sky,RE,1614219134,53,-21.3585,55.7679,25,4.12
 332,edd,broken clouds,ER,1614223924,87,13.9297,41.6925,24.4,6.67
 333,ushuaia,broken clouds,AR,1614160005,70,-54.8,-68.3,6,11.83
@@ -341,11 +309,8 @@ City_ID,City,Cloudiness,Country,Date,Humidity,Lat,Lng,Max Temp,Wind Speed
 339,esperance,clear sky,AU,1614202608,47,-33.8667,121.9,25,6.69
 340,aviles,clear sky,ES,1614236814,93,43.5547,-5.9248,13.33,4.12
 341,longyearbyen,light snow,SJ,1614240311,80,78.2186,15.6401,1,5.66
-342,tsihombe,,,,,,,,
 343,port lincoln,overcast clouds,AU,1614199202,58,-34.7333,135.8667,17.83,3.95
-344,grand river south east,,,,,,,,
 345,cape town,clear sky,ZA,1614227454,68,-33.9258,18.4232,19.44,5.66
-346,amderma,,,,,,,,
 347,busselton,clear sky,AU,1614204198,63,-33.65,115.3333,23.33,0.89
 348,mwinilunga,overcast clouds,ZM,1614227070,97,-11.7358,24.4293,17.13,2.52
 349,fortuna,clear sky,US,1614178656,76,40.5982,-124.1573,8.89,3.6
@@ -370,12 +335,9 @@ City_ID,City,Cloudiness,Country,Date,Humidity,Lat,Lng,Max Temp,Wind Speed
 368,port shepstone,light rain,ZA,1614224745,80,-30.7414,30.455,21.43,3.52
 369,bengkulu,overcast clouds,ID,1614208703,82,-3.8004,102.2655,25.29,4.15
 370,albany,overcast clouds,US,1614166756,43,42.6001,-73.9662,7.22,4.53
-371,ballstad,,,,,,,,
 372,tuktoyaktuk,few clouds,CA,1614184675,67,69.4541,-133.0374,-39,1.54
 373,alofi,scattered clouds,NU,1614186994,70,-19.0595,-169.9187,29,2.57
 374,xining,overcast clouds,CN,1614210563,78,36.6167,101.7667,0.18,1.14
-375,airai,broken clouds,TL,1614202946,100,-8.9266,125.4092,19.44,2.07
-376,solovetskiy,,,,,,,,
 377,norman wells,light snow,CA,1614182101,77,65.282,-126.8329,-20,4.12
 378,busselton,clear sky,AU,1614204198,63,-33.65,115.3333,23.33,0.89
 379,hobart,broken clouds,AU,1614195891,71,-42.8794,147.3294,13.33,4.63
@@ -392,12 +354,10 @@ City_ID,City,Cloudiness,Country,Date,Humidity,Lat,Lng,Max Temp,Wind Speed
 390,albany,overcast clouds,US,1614166756,43,42.6001,-73.9662,7.22,4.53
 391,punta arenas,broken clouds,CL,1614160842,73,-53.15,-70.9167,7.99,5.25
 392,eskil,few clouds,TR,1614227056,84,38.4017,33.4131,0.79,1.95
-393,skalistyy,,,,,,,,
 394,arraial do cabo,scattered clouds,BR,1614156109,92,-22.9661,-42.0278,24.33,1.93
 395,tuktoyaktuk,few clouds,CA,1614184675,67,69.4541,-133.0374,-39,1.54
 396,te anau,broken clouds,NZ,1614190787,57,-45.4167,167.7167,16.95,0.47
 397,ushuaia,broken clouds,AR,1614160005,70,-54.8,-68.3,6,11.83
-398,aflu,,,,,,,,
 399,makakilo city,few clouds,US,1614185795,47,21.3469,-158.0858,28,7.72
 400,basco,clear sky,PH,1614204933,86,20.4487,121.9702,24.71,3.47
 401,rikitea,moderate rain,PF,1614178415,76,-23.1203,-134.9692,27.02,13.12
@@ -407,17 +367,14 @@ City_ID,City,Cloudiness,Country,Date,Humidity,Lat,Lng,Max Temp,Wind Speed
 405,bredasdorp,overcast clouds,ZA,1614227030,82,-34.5322,20.0403,17,2.5
 406,bredasdorp,overcast clouds,ZA,1614227030,82,-34.5322,20.0403,17,2.5
 407,bluff,clear sky,NZ,1614190536,66,-46.6,168.3333,15.56,3.58
-408,illoqqortoormiut,,,,,,,,
 409,carnarvon,clear sky,AU,1614205076,46,-24.8667,113.6333,33,6.69
 410,punta arenas,broken clouds,CL,1614160842,73,-53.15,-70.9167,7.99,5.25
 411,trinidad,overcast clouds,BO,1614161970,93,-14.8333,-64.9,24.51,1.3
 412,upernavik,broken clouds,GL,1614167570,79,72.7868,-56.1549,-13.08,1.88
 413,port alfred,light rain,ZA,1614225441,95,-33.5906,26.891,18.33,0.45
-414,taolanaro,,,,,,,,
 415,mataura,broken clouds,NZ,1614190444,66,-46.1927,168.8643,15.56,3.58
 416,atambua,broken clouds,ID,1614203063,75,-9.1061,124.8925,27.16,1.99
 417,hilo,moderate rain,US,1614185007,73,19.7297,-155.09,24,3.6
-418,port elizabeth,moderate rain,ZA,1614225739,100,-33.918,25.5701,18,4.63
 419,kieta,moderate rain,PG,1614195800,75,-6.2167,155.6333,29.09,4.97
 420,mataura,broken clouds,NZ,1614190444,66,-46.1927,168.8643,15.56,3.58
 421,atuona,clear sky,PF,1614179976,76,-9.8,-139.0333,26.2,4.83
@@ -433,8 +390,6 @@ City_ID,City,Cloudiness,Country,Date,Humidity,Lat,Lng,Max Temp,Wind Speed
 431,thompson,scattered clouds,CA,1614173650,77,55.7435,-97.8558,-23,1.02
 432,saldanha,clear sky,ZA,1614227623,72,-33.0117,17.9442,17,3.6
 433,arraial do cabo,scattered clouds,BR,1614156109,92,-22.9661,-42.0278,24.33,1.93
-434,amderma,,,,,,,,
-435,belushya guba,,,,,,,,
 436,makat,clear sky,KZ,1614222908,91,47.6469,53.3463,-23.35,4.11
 437,siavonga,light rain,ZM,1614225843,91,-16.5382,28.7088,22.36,2.22
 438,la rioja,clear sky,ES,1614235906,87,42.25,-2.5,10,3.6
@@ -445,8 +400,6 @@ City_ID,City,Cloudiness,Country,Date,Humidity,Lat,Lng,Max Temp,Wind Speed
 443,saint-joseph,clear sky,RE,1614219170,53,-21.3667,55.6167,25,4.12
 444,jamestown,overcast clouds,US,1614167985,87,42.097,-79.2353,3.33,9.77
 445,siniscola,clear sky,IT,1614232875,93,40.5719,9.6922,6,1.03
-446,asau,fog,RO,1614229273,100,46.4333,26.4,7.78,1.54
-447,uniao da victoria,,,,,,,,
 448,barrow,clear sky,US,1614190996,68,71.2906,-156.7887,-33,5.66
 449,santa vitoria do palmar,clear sky,BR,1614158267,85,-33.5189,-53.3681,18.76,2.08
 450,coquimbo,scattered clouds,CL,1614162788,88,-29.9533,-71.3436,15.63,0.94
@@ -456,7 +409,6 @@ City_ID,City,Cloudiness,Country,Date,Humidity,Lat,Lng,Max Temp,Wind Speed
 454,ossora,broken clouds,RU,1614197833,90,59.2353,163.0719,-16.61,3.27
 455,mitsamiouli,moderate rain,KM,1614222559,75,-11.3847,43.2844,27.44,2.03
 456,griffith,clear sky,US,1614169910,86,41.5284,-87.4237,0,2.87
-457,tarudant,,,,,,,,
 458,nikolskoye,overcast clouds,RU,1614229586,93,59.7035,30.7861,3,5
 459,victoria,light rain,HK,1614206886,89,22.2855,114.1577,20,0.45
 460,san quintin,broken clouds,MX,1614176115,75,30.4833,-115.95,14.82,2.35
@@ -500,7 +452,6 @@ City_ID,City,Cloudiness,Country,Date,Humidity,Lat,Lng,Max Temp,Wind Speed
 498,torbay,light snow,CA,1614162046,86,47.6666,-52.7314,0,7.2
 499,mataura,broken clouds,NZ,1614190444,66,-46.1927,168.8643,15.56,3.58
 500,mataura,broken clouds,NZ,1614190444,66,-46.1927,168.8643,15.56,3.58
-501,illoqqortoormiut,,,,,,,,
 502,hasaki,scattered clouds,JP,1614201146,29,35.7333,140.8333,7.78,2.06
 503,rikitea,moderate rain,PF,1614178415,76,-23.1203,-134.9692,27.02,13.12
 504,salalah,clear sky,OM,1614221073,56,17.0151,54.0924,21,1.03
@@ -515,8 +466,6 @@ City_ID,City,Cloudiness,Country,Date,Humidity,Lat,Lng,Max Temp,Wind Speed
 513,mzimba,overcast clouds,MW,1614224862,93,-11.9,33.6,16.52,1.43
 514,rikitea,moderate rain,PF,1614178415,76,-23.1203,-134.9692,27.02,13.12
 515,ostrov,light intensity drizzle,RU,1614229855,93,57.3439,28.3537,5,5
-516,guajara-mirim,,,,,,,,
-517,nguiu,,,,,,,,
 518,hilo,moderate rain,US,1614185007,73,19.7297,-155.09,24,3.6
 519,kaitangata,clear sky,NZ,1614190200,60,-46.2817,169.8464,14.44,4.47
 520,denpasar,few clouds,ID,1614205404,79,-8.65,115.2167,29,1.03
@@ -529,23 +478,17 @@ City_ID,City,Cloudiness,Country,Date,Humidity,Lat,Lng,Max Temp,Wind Speed
 527,lerwick,few clouds,GB,1614237300,81,60.1545,-1.1494,7,7.2
 528,atuona,clear sky,PF,1614179976,76,-9.8,-139.0333,26.2,4.83
 529,atuona,clear sky,PF,1614179976,76,-9.8,-139.0333,26.2,4.83
-530,mrirt,,,,,,,,
 531,ushuaia,broken clouds,AR,1614160005,70,-54.8,-68.3,6,11.83
 532,mar del plata,mist,AR,1614158987,94,-38.0023,-57.5575,19.44,1.54
 533,tuatapere,overcast clouds,NZ,1614190733,68,-46.1333,167.6833,15.56,2.24
-534,barentsburg,,,,,,,,
-535,maloshuyka,,,,,,,,
 536,pisco,clear sky,PE,1614164735,78,-13.7,-76.2167,21.11,6.17
 537,avarua,light rain,CK,1614184461,83,-21.2078,-159.775,28,5.14
 538,port hawkesbury,overcast clouds,CA,1614163949,75,45.6169,-61.3485,2,4.63
 539,katsuura,few clouds,JP,1614201240,24,35.1333,140.3,8.89,4.47
 540,santa cruz,overcast clouds,BO,1614161424,89,-17.8,-63.1667,27,2.57
-541,saleaula,,,,,,,,
 542,chuy,clear sky,UY,1614158278,88,-33.6971,-53.4616,18.7,2.32
 543,stornoway,broken clouds,GB,1614238287,81,58.2093,-6.3865,7,9.77
 544,alice springs,clear sky,AU,1614200271,12,-23.7,133.8833,28,6.69
 545,grindavik,clear sky,IS,1614243006,93,63.8424,-22.4338,0,3.09
 546,new norfolk,overcast clouds,AU,1614195964,70,-42.7826,147.0587,13.89,1.79
 547,sanford,few clouds,US,1614167715,77,28.8006,-81.2731,21.11,2.06
-548,palabuhanratu,,,,,,,,
-549,oreanda,,,,,,,,
